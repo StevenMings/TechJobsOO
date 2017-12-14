@@ -37,7 +37,7 @@
             {
                 return false;
             }
-            
+
             return (obj as JobField).ID == ID;
         }
 
